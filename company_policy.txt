@@ -1,0 +1,36 @@
+# Ultrafast AI Corp: Remote Work Policy
+
+**Policy Number:** HR-2024-001
+**Effective Date:** January 1, 2024
+**Status:** Approved
+
+## 1. Purpose
+The purpose of this policy is to define the guidelines and requirements for remote work at Ultrafast AI Corp, ensuring productivity and maintaining company culture while providing flexibility to our employees.
+
+## 2. Eligibility
+All full-time employees are eligible for remote work, subject to manager approval. Eligibility is determined based on job performance, the nature of the role, and the employee's ability to maintain a professional and secure work environment.
+
+## 3. Working Hours and Availability
+- **Core Hours:** All remote employees are expected to be available during core business hours: 9:00 AM to 5:00 PM Pacific Time.
+- **Responsive:** Employees must be reachable via company communication channels (Slack/Email) during these hours.
+- **Meetings:** Participation in scheduled video conferences and team meetings is mandatory.
+
+## 4. Equipment and Infrastructure
+- **Company Provided:** The company will provide a high-performance laptop (NeuralChip X1 enabled) and necessary peripherals.
+- **Home Office:** Employees are responsible for maintaining a stable, high-speed internet connection (minimum 50 Mbps).
+- **Security:** Use of the company-approved VPN is mandatory for all work-related activities.
+
+## 5. Security and Confidentiality
+- **Proprietary Data:** Employees must ensure that sensitive company data is not accessible to unauthorized individuals in their remote environment.
+- **Physical Security:** Company hardware must be stored securely when not in use.
+- **Reporting:** Any security breaches or lost equipment must be reported to the IT Security team immediately.
+
+## 6. Compensation and Expenses
+Remote work arrangements do not change basic compensation or benefits. Reimbursable expenses must be pre-approved by the department head.
+
+## 7. Compliance
+Failure to comply with these guidelines may result in the revocation of remote work privileges or disciplinary action.
+
+---
+**Contact Information:**
+For questions regarding this policy, please contact Human Resources at hr@ultrafast-ai.corp.

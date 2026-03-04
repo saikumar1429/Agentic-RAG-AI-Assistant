@@ -1,0 +1,21 @@
+# User Manual: NeuralChip X1
+
+## Introduction
+The NeuralChip X1 is a state-of-the-art AI accelerator designed for high-throughput and low-latency processing of neural networks.
+
+## Technical Specifications
+- **Compute Power**: 500 TFLOPS (FP16)
+- **Memory**: 64GB HBM3
+- **Power Consumption**: 250W
+- **Interface**: PCIe Gen 5.0 x16
+
+## Setup Instructions
+1. Insert the NeuralChip X1 into a PCIe Gen 5 slot.
+2. Connect the 8-pin power cable.
+3. Install the SpeedEngine SDK version 2.0 or higher.
+4. Run the diagnostic tool using `nx1-check`.
+
+## Troubleshooting
+- **Overheating**: Ensure your system case has adequate airflow.
+- **Detection Issue**: Verify that the card is seated correctly in the PCIe slot.
+- **Driver Error**: Update to the latest version of the SpeedEngine SDK.
