@@ -1,5 +1,5 @@
 Agentic RAG AI Assistant
-
+Overview
 
 This project is an Agentic Retrieval-Augmented Generation (RAG) AI Assistant that allows users to upload documents and ask questions based on their content. The system retrieves relevant information from uploaded files and generates answers grounded in the document context.
 
@@ -66,3 +66,22 @@ Documents are graded for relevance
 If needed, the query is rewritten
 
 LLM generates the final answer based on context
+
+Installation
+1. Clone the Repository
+git clone https://github.com/yourusername/agentic-rag-ai-assistant.git
+cd agentic-rag-ai-assistant
+2. Create Virtual Environment
+python -m venv venv
+
+Activate environment
+
+Windows
+
+venv\Scripts\activate
+
+Mac/Linux
+
+source venv/bin/activate
+3. Install Dependencies
+pip install -r requirements.txt
